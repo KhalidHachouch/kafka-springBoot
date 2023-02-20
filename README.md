@@ -1,0 +1,1 @@
+This is a maven parent project that include 2 maven modules as a spring boot application the first module for the kafka Producer that fetch data from the wikimedia event streams, and the producer module that consume that from the producer and store it in MySQL Database
